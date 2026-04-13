@@ -1,0 +1,2 @@
+# Automatic-Salary-Slip-Generation-and-Email-System-using-AWS
+This project utilizes cloud technologies such as Amazon S3 for storing input and output files,  AWS Lambda for processing data and generating payslips, and Amazon SES for sending emails  efficiently. Additionally, AWS IAM ensures secure access and permission control, while AES  encryption techniques are used to protect sensitive payroll data.
